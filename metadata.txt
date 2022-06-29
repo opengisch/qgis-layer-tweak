@@ -1,0 +1,18 @@
+[general]
+name=TweakLayer
+qgisMinimumVersion=3.4
+description=Changes behavior of qgis layer rendering.
+version=1.0.0
+author=Clemens Rudert (OPENGIS.ch)
+email=clemens@opengis.ch
+server=True
+
+about=Changes behavior of qgis layer rendering.
+tracker=https://github.com/opengisch/qgis_layer_tweak/issues
+repository=https://github.com/opengisch/qgis_layer_tweak
+tags=server, chache, reload
+homepage=https://github.com/opengisch/qgis_layer_tweak
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
